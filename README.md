@@ -61,7 +61,7 @@ mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s2
 
 ## Wireshark / tcpdump Capture
 
-ICMP packets captured on inter-switch link during cross-switch ping.
+**ICMP packets captured on inter-switch link during cross-switch ping.**
 
 <img width="747" height="585" alt="Screenshot 2026-04-20 at 10 25 06 AM" src="https://github.com/user-attachments/assets/26dcb661-93a3-4052-9b5b-8249dccc973d" />
 
@@ -69,11 +69,11 @@ ICMP packets captured on inter-switch link during cross-switch ping.
 
 ## Mininet CLI Output
 
-Full Mininet session showing topology creation, pingall, and test results.
+**Full Mininet session showing topology creation, pingall, and test results.**
 
 <img width="956" height="574" alt="Screenshot 2026-04-20 at 10 50 57 AM" src="https://github.com/user-attachments/assets/702f33c5-101b-4686-970c-18ef70b1fbd1" />
 
-Creates the topology
+**Creates the topology**
 <img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/aa46f226-6e40-4054-8d5e-5f4b5aae8964" />
 
 <img width="557" height="183" alt="image" src="https://github.com/user-attachments/assets/1a60de1a-2730-405f-9320-968bc0810ed6" />
