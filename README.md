@@ -95,6 +95,6 @@ mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s2
 ---
 
 ## Notes
--OSKen is a mantained fork of the Ryu SDN framework, created to ensure compatibility with modern Python versions & continued development
--OSKen maintains the same API, component-based framework, and functionality as Ryu
--OpenFlow is fully supported
+- OSKen is a mantained fork of the Ryu SDN framework, created to ensure compatibility with modern Python versions & continued development
+- OSKen maintains the same API, component-based framework, and functionality as Ryu
+- OpenFlow is fully supported
