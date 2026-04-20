@@ -70,6 +70,8 @@ mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s2
 ## Mininet CLI Output
 
 **Full Mininet session showing topology creation, pingall, and test results.**
+
+**Starting the controller**
 <img width="956" height="574" alt="Screenshot 2026-04-20 at 10 50 57 AM" src="https://github.com/user-attachments/assets/702f33c5-101b-4686-970c-18ef70b1fbd1" />
 
 
