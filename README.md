@@ -76,9 +76,11 @@ mininet> sh ovs-ofctl -O OpenFlow13 dump-flows s2
 **Creates the topology**
 <img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/aa46f226-6e40-4054-8d5e-5f4b5aae8964" />
 
+**Ping all nodes pairwise**
 <img width="557" height="183" alt="image" src="https://github.com/user-attachments/assets/1a60de1a-2730-405f-9320-968bc0810ed6" />
 
 
+**Exits and stops all components**
 <img width="424" height="256" alt="Screenshot 2026-04-20 at 10 51 47 AM" src="https://github.com/user-attachments/assets/4af8917f-ccfa-43ab-b8c1-9f3642e1f175" />
 
 ---
